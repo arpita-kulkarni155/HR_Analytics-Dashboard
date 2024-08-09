@@ -1,5 +1,5 @@
 # HR_Analytics-Dashboard
-This End-to-End Power Bi project.
+This is End-to-End Power Bi project.
 
 ## Project Objective:
 Help an organization to improve employee performance and improve employee retention by creating a **HR Analytics** Dashboard.
